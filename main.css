@@ -1,0 +1,38 @@
+.btn-success {
+    color: rgb(1, 10, 14);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    
+    background-color:#dfd7d7;
+}
+
+.btn-primary{
+    color: rgb(18, 22, 1);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    background-color: #febd69;
+}
+
+#desc {
+    font-size: small;
+}
+#create {
+    color: black;
+    font-weight: 600;
+}
+.card{
+    max-width:468px;
+    position:center;
+}
+
+.card{
+    max-width:468px;
+    position:center;
+    margin:auto;
+    
+}
+.text-decoration-none{
+    float:right
+
+
+}
